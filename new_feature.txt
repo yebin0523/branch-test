@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 add a new feature
+=======
+add a nwe feature
+>>>>>>> 38047048d385f2bacc0b137d1a83eb45183c0a2a

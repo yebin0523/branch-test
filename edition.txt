@@ -2,4 +2,7 @@ first edition
 second edition
 third edition
 issue resolved
+<<<<<<< HEAD
 
+=======
+>>>>>>> 38047048d385f2bacc0b137d1a83eb45183c0a2a
